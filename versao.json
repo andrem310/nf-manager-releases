@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.22",
-  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.22/NF.Manager.1.0.22.apk",
-  "sha256": "e8b6c845247a35469008573aa54ac508cdc1b1e19d70243a74a4b7ba78b1b986",
-  "notas": "Licença vinculada ao aparelho; atualização pelo app"
+  "versao": "1.0.23",
+  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.23/NF.Manager.1.0.23.apk",
+  "sha256": "c254f913abb90fe1c44aba398b76b47f0b51b5131bc870b9c69e3ebc5a9fc869",
+  "notas": "Correção da barra de progresso do relatório"
 }
