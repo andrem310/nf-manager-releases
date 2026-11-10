@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.25",
-  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.25/NF.Manager.1.0.25.apk",
-  "sha256": "8a788c1b840fa22037cc3c8114543bd8bb181b96333ac230616ad1187146d054",
-  "notas": "Relatório com 3 barras animadas (imagens/PDF/Excel) e % em cada etapa"
+  "versao": "1.0.26",
+  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.26/NF.Manager.1.0.26.apk",
+  "sha256": "bce9a53a699073d1618f14c9de45d867f72cc2bf118ba158c4ef8a270ba409cc",
+  "notas": "Selecionar vários relatórios e compartilhar juntos"
 }
