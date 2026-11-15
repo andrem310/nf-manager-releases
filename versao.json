@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.26",
-  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.26/NF.Manager.1.0.26.apk",
-  "sha256": "bce9a53a699073d1618f14c9de45d867f72cc2bf118ba158c4ef8a270ba409cc",
-  "notas": "Selecionar vários relatórios e compartilhar juntos"
+  "versao": "1.0.27",
+  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.27/NF.Manager.1.0.27.apk",
+  "sha256": "49f15730016ed19abcec51dc12f67e10190e7251d433a044f2094ebd432040b3",
+  "notas": "Formulário oficial de despesas + dados do relatório + correções"
 }
