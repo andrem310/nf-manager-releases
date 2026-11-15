@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.31",
-  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.31/NF.Manager.1.0.31.apk",
-  "sha256": "f4778f208708e2833eae03e8ad4f1ad902d87ffe5eb701ca37a6cca74be1954c",
-  "notas": "Excel com layout idêntico ao modelo + seleção corrigida"
+  "versao": "1.1.0",
+  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.1.0/NF.Manager.1.1.0.apk",
+  "sha256": "cd8b4582e24c9c590b56008a8949998f6ecf2938944d04335e56e5ca1db74449",
+  "notas": "Formulário oficial com layout fiel, visualizador novo e correções"
 }
