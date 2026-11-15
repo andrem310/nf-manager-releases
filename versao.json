@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.0",
-  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.1.0/NF.Manager.1.1.0.apk",
-  "sha256": "cd8b4582e24c9c590b56008a8949998f6ecf2938944d04335e56e5ca1db74449",
-  "notas": "Formulário oficial com layout fiel, visualizador novo e correções"
+  "versao": "1.1.1",
+  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.1.1/NF.Manager.1.1.1.apk",
+  "sha256": "e8e47049fe52b9be1e9cb930adacd884646d200f26bcefe4eb8b62c65b3a02c1",
+  "notas": "Formulários em partes acima de 50 notas + limpeza + pastas organizadas"
 }
