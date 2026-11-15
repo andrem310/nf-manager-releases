@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.27",
-  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.27/NF.Manager.1.0.27.apk",
-  "sha256": "49f15730016ed19abcec51dc12f67e10190e7251d433a044f2094ebd432040b3",
-  "notas": "Formulário oficial de despesas + dados do relatório + correções"
+  "versao": "1.0.28",
+  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.28/NF.Manager.1.0.28.apk",
+  "sha256": "821d4dde2e64f8afb690d9869b1df160873f8697a215715e88939d588ca36c2a",
+  "notas": "Excel do formulário corrigido + qtde automática + contas certas"
 }
