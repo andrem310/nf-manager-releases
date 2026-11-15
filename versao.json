@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.30",
-  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.30/NF.Manager.1.0.30.apk",
-  "sha256": "072e2beb45ed2a6e5a94b6e4f9e77e14b712336642f97177bb8b42bf0b41b62b",
-  "notas": "Excel abre sem reparo"
+  "versao": "1.0.31",
+  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.31/NF.Manager.1.0.31.apk",
+  "sha256": "f4778f208708e2833eae03e8ad4f1ad902d87ffe5eb701ca37a6cca74be1954c",
+  "notas": "Excel com layout idêntico ao modelo + seleção corrigida"
 }
