@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.28",
-  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.28/NF.Manager.1.0.28.apk",
-  "sha256": "821d4dde2e64f8afb690d9869b1df160873f8697a215715e88939d588ca36c2a",
-  "notas": "Excel do formulário corrigido + qtde automática + contas certas"
+  "versao": "1.0.29",
+  "url": "https://github.com/andrem310/nf-manager-releases/releases/download/v1.0.29/NF.Manager.1.0.29.apk",
+  "sha256": "766002a48c025997d328886e44c652f057a27bef41af36923a63840cf7c2d54c",
+  "notas": "Excel abre sem erro de recuperação"
 }
